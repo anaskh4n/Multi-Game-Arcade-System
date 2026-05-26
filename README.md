@@ -50,6 +50,6 @@ How to Run
 
 Author
 
-**Muhammad Anas Khan**  
+**Muhammad Anas Khan , Syed Mubashir Salam , Syed Muazammil Naqvi**  
 BSCS Student @ NUST
 GitHub: [github.com/anaskh4n](https://github.com/anaskh4n)
